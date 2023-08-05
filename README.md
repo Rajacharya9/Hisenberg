@@ -1,2 +1,2 @@
 # Hisenberg
-An 
+its a self thinking code.
